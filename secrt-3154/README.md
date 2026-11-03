@@ -5,3 +5,6 @@ Evidence for Significant-Gravitas/AutoGPT#16511 (SECRT-3154, one colour token se
 - diff/: pixelmatch at threshold 0 (red = changed pixel). compare.md: changed pixels per shot.
 - crops/: side-by-side before | after crops of each changed region.
 - palette-swaps.txt: every palette class the codemod swapped (file:line old -> new), from a dry run over dev.
+
+r2/: refreshed after merging dev 606cb1b (with #16513, the Text/Icon/Button variants) into the PR at 1ae437b.
+before = dev 606cb1b, after = PR head 1ae437b; same database and capture settings as above.
